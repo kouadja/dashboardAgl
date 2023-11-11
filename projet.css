@@ -1,0 +1,48 @@
+body{
+    display: flex;
+    text-align: left;
+    justify-content: center;
+    background-color: rgb(226, 226, 226);
+    
+}
+.main{
+    background: rgb(255, 255, 255);
+    width: 70%;
+
+
+}
+.nav-content{
+    display: flex;
+    justify-content: space-between;
+   
+    
+}
+h1{
+    position: relative;
+    top: 20px;
+    display: flex;
+    background-color:#3e8e41;
+    color: white;
+    display: flex;
+    align-items: center;
+    height: 50px;
+    
+}
+img{
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+ol{
+    transform: translateX(40%);
+}
+.text-contnt{
+    
+    text-align: center;
+}
+.video{
+    transform: translateX(60%);
+}
+
+
